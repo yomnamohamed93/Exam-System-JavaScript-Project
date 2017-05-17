@@ -1,0 +1,127 @@
+#body{
+  background: url('../images/home-bg.jpg') no-repeat;
+  background-size: cover;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+
+}
+
+
+#internalwrapper
+{
+        display:-webkit-box;
+        border:1px solid black;
+        border-radius:20px;
+        width: 90%;
+        height: 400px;
+        margin:10px auto;
+        padding: 10px ;
+
+      }
+
+#aside1
+{
+         width:65%;
+        border-radius:20px;
+        margin-left: 25px;
+        padding: 18px ;
+        background-color: ghostwhite;
+        background-color: rgba(255, 250, 240, 0.8);
+       color: indigo	;
+      // text-align: center;
+
+}
+#timediv
+{
+         width:80px;
+        border:2px solid black;
+        border-radius:20px;
+        padding: 2px;
+        background-color:rgba(240, 128, 128, 0.3);
+        padding-top: 140px;
+        text-align: center;
+}
+
+#internalwrapper2
+{
+        display:-webkit-box;
+        border:1px solid black;
+        border-radius:20px;
+        width:90%;
+        margin:30px auto;
+        padding: 20px ;
+        margin-top: 20px;
+        background-color: rgba(255, 250, 240, 0.5);
+}
+#aside2
+{
+         width:70%;
+        padding:5px;
+        margin:5px auto;
+}
+#mark
+{
+       width:20%;
+        border:2px solid black;
+        border-radius:20px;
+        margin:2px auto; ;
+        margin-left: 35px;
+        padding: 10px;
+        background-color:rgba(240, 128, 128, 0.3);
+        overflow-y: scroll;
+        text-align: center;
+}
+#Btn
+{
+  padding-top:100px;
+  padding-right: 15px;
+}
+#marktext
+{
+padding:0;
+margin:0;
+border:1px solid black;
+border-radius:20px;
+background-color: rgba(255, 250, 240, 0.8);
+color: indigo	;
+
+}
+
+#finish
+{
+  background-color: lightcyan;
+color: indigo;
+}
+
+#IQ ,#english {
+  background-color:rgba(220, 220, 220, 0.7);
+  color: indigo;
+
+}
+
+p
+{
+padding:0;
+margin:0;
+text-align: center;
+font:bold 20px verdana;
+}
+.button
+{
+display: inline-block;
+border-radius:10px;
+padding:5px;
+margin:10px 10px;
+background-color: dodgerblue;
+-webkit-box-orient:vertical;
+-moz-box-orient:vertical;
+width: 120px;
+font-weight: bolder;
+}
+}
+.button:hover
+{
+background-color: pink;
+
+}
